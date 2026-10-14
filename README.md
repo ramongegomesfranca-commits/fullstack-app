@@ -50,3 +50,5 @@ Este repositório faz parte da primeira fase do desenvolvimento da aplicação. 
 
 1. **Clone o repositório:**
    ```bash
+   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+   cd SEU-REPOSITORIO
